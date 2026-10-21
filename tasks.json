@@ -1,0 +1,12 @@
+[
+  {
+    "id": 2,
+    "title": "prepare for interviews",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "complete python project",
+    "completed": false
+  }
+]
